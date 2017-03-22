@@ -19,6 +19,7 @@ __A GUI for Packing and Obfuscating Arma 3 missions licensed under MIT.__
 
 # TODO
 - Implement usage of other PBO tools
+- Drag and drop mission folder over buttons
 - New App Icon? Lol
 - Master password to display the ObfuSQF token after it's entered?
 - idk
