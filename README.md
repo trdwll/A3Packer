@@ -1,7 +1,7 @@
 # A3Packer
 __A GUI for Packing and Obfuscating Arma 3 missions licensed under MIT.__
 
-[![GitHub issues](https://img.shields.io/github/issues/trdwll/A3Packer.svg)](https://github.com/trdwll/A3Packer/issues) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/trdwll/A3Packer/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/trdwll/A3Packer.svg)](https://github.com/trdwll/A3Packer/network) [![GitHub stars](https://img.shields.io/github/stars/trdwll/A3Packer.svg)](https://github.com/trdwll/A3Packer/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/trdwll/A3Packer.svg)](https://github.com/trdwll/A3Packer/issues) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/trdwll/A3Packer/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/trdwll/A3Packer.svg)](https://github.com/trdwll/A3Packer/network) [![GitHub stars](https://img.shields.io/github/stars/trdwll/A3Packer.svg)](https://github.com/trdwll/A3Packer/stargazers) [![Github All Releases](https://img.shields.io/github/downloads/trdwll/A3Packer/total.svg)](https://github.com/trdwll/A3Packer/releases)
 
 ![app](https://imglnx.com/i/be97.png)
 
