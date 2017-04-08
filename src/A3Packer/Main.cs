@@ -56,7 +56,7 @@ namespace A3Packer
                 process.Start();
                 process.WaitForExit();
 
-                MessageBox.Show($"Saved mission to {sfd.FileName}");
+                MessageBox.Show($"Saved mission to {sfd.FileName}", "Saved", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 Text = "A3Packer";
             }
             catch (Exception ex) // Since this can throw a few exceptions lets default to just Exception
