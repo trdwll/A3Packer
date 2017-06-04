@@ -1,3 +1,9 @@
+
+
+__This project is unmaintained and no longer being developed.__
+__The ObfuSQF portion of this application is obsolete now as Maverick Applications has released a new UI for their desktop client.__
+
+
 # A3Packer
 __A GUI for Packing and Obfuscating Arma 3 missions licensed under MIT.__
 
